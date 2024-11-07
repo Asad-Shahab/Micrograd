@@ -1,4 +1,6 @@
-# MicroGrad - Lightweight Autograd Engine
+# MicroGrad 
+
+Lightweight Autograd Engine
 
 ## Overview
 MicroGrad is an autograd engine that implements the core functionality of backpropagation for automatic differentiation. This project aims to provide a simplified version of the autograd mechanisms found in larger deep learning frameworks like PyTorch and TensorFlow. 
@@ -10,7 +12,7 @@ MicroGrad is an autograd engine that implements the core functionality of backpr
 pip install micrograd
 ```
 
-## Example usage:
+## Tracing/Visualisation:
 ```
 from micrograd import nn
 n = nn.Neuron(2)
