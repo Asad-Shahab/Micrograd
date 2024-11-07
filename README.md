@@ -18,4 +18,6 @@ x = [Value(1.0), Value(-2.0)]
 y = n(x)
 dot = draw_dot(y)
 ```
-![Screenshot 2024-09-05 175942](https://github.com/user-attachments/assets/58fd2689-a6c5-4248-b7e0-f25f7c03e4b1)
+![Screenshot 2024-11-07 001645](https://github.com/user-attachments/assets/8b75cc20-9cee-4f98-9e2e-3e3e4e088bb3)
+
+
